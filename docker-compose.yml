@@ -46,6 +46,8 @@ services:
 
   nginx:
     image: nginx:stable-alpine
+    depends_on:
+      - api
     networks:
       - backend
     volumes:
