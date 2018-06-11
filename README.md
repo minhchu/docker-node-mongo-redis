@@ -7,3 +7,4 @@ You must have Docker to run this repo
 - Clone this repo
 - `cd api` then `yarn install`
 - `docker-compose up`
+- Open your browser at [localhost](http://localhost)
