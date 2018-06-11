@@ -5,4 +5,5 @@ You must have Docker to run this repo
 
 # Usage  
 - Clone this repo
-- run `docker-compose up`
+- `cd api` then `yarn install`
+- `docker-compose up`
